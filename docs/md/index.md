@@ -349,7 +349,7 @@ Acc = 命中正确答案的题数 / 题目总数
 
 请仔细阅读《[第四届中文空间语义理解评测 SpaCE2024 参赛协议](https://github.com/2030NLP/SpaCE2024/blob/main/Agreement.md)》和《[第四届中文空间语义理解评测 SpaCE2024 数据集使用许可](https://github.com/2030NLP/SpaCE2024/blob/main/data/LICENSE.md)》，然后点击进入 [报名链接](https://docs.qq.com/form/page/DSVJvYnVRV0tCemdJ) 或者扫描下方二维码进行报名。
 
-<div align="center"><img src="./images/QRcode.png" width = "300"/></div>
+<div align="center"><img src="./images/SpaCE2024_QRCode.png" width = "300"/></div>
 
 ### <center>6.  <span id="award">奖项设置</span></center>
 
