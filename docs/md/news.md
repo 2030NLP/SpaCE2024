@@ -7,6 +7,8 @@
 
 <br/>
 
+- `3月 27日` 训练集 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/data" target="_blank">🔗</a> 发布。
+- `2月  5日` 第二十三届中国计算语言学大会（CCL 2024）技术评测任务发布，SpaCE2024 作为任务3 发布。
 - `1月 29日` 第四届中文空间语义理解评测（SpaCE2024）网页 <a href="https://2030nlp.github.io/SpaCE2024" target="_blank">🔗</a> 和数据仓库 <a href="https://github.com/2030NLP/SpaCE2024" target="_blank">🔗</a> 上线。
 
 <br/>
@@ -20,4 +22,4 @@
     <!-- - [中文语法纠错评测 CLTC 2022](https://github.com/blcuicall/CCL2022-CGEC) -->
 
 <hr/>
-<p class="text-center">最后更新于<strong>2024年1月29日</strong></p>
+<p class="text-center">最后更新于<strong>2024年3月27日</strong></p>
