@@ -7,6 +7,7 @@
 
 <br/>
 
+- `4月  2日` 评分脚本 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/eval" target="_blank">🔗</a> 发布。
 - `3月 27日` 训练集 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a> 发布。
 - `2月  5日` 第二十三届中国计算语言学大会（CCL 2024）技术评测任务发布，SpaCE2024 作为任务3 发布。
 - `1月 29日` 第四届中文空间语义理解评测（SpaCE2024）网页 <a href="https://2030nlp.github.io/SpaCE2024" target="_blank">🔗</a> 和数据仓库 <a href="https://github.com/2030NLP/SpaCE2024" target="_blank">🔗</a> 上线。
