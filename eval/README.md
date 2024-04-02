@@ -1,4 +1,4 @@
-## **eval.py**
+## **eval_latest.py**
 评分文件，指标采用accuracy。
 **all_accuracy是赛事的唯一排名指标**，是所有题目的准确率。
 <br>
