@@ -1,7 +1,15 @@
 ## **eval.py**
 评分文件，指标采用accuracy。
-**total_accuracy是赛事的唯一排名指标**，是所有题目的准确率。
-以下两个指标不作为赛事的排名依据：single_accuracy是答案唯一的题目的准确率，multiple_accuracy是多个答案的题目的准确率，
+**all_accuracy是赛事的唯一排名指标**，是所有题目的准确率。
+<br>
+以下指标均不作为赛事的排名依据：
+- 单选题_accuracy是答案唯一类题目的准确率；
+- 多选题_accuracy是多个答案类题目的准确率；
+- 实体识别_accuracy是实体识别类题目的准确率；
+- 角色识别_accuracy是角色识别类题目的准确率；
+- 异常识别_accuracy是异常识别类题目的准确率；
+- 空间推理_accuracy是空间推理类题目的准确率；
+- 同义识别_accuracy是同义识别类题目的准确率；
 
 【参数说明】
 --answer_path 后为答案的文件路径。
