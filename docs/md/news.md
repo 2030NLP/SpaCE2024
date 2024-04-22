@@ -7,6 +7,8 @@
 
 <br/>
 
+- `4月 22日` **关于如何提交结果**：请将结果输出为 jsonl 格式，每行一个 json 对象，以【<span style="color:var(--notice-red)">队伍名称-test<sub>或dev</sub>-1<sub>指第几次提交</sub>-0812<sub>指日期</sub>.jsonl</span>】给文件命名，将结果文件发送到 lmxiao@stu.pku.edu.cn 。我们每周将会根据提交情况更新1到2次排行榜，仅以更新时您的最后一次提交结果为准。
+- `4月 22日` 验证集及答案、无答案测试集 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a> 发布。
 - `4月  2日` 评分脚本 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/eval" target="_blank">🔗</a> 发布。
 - `3月 27日` 训练集 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a> 发布。
 - `2月  5日` 第二十三届中国计算语言学大会（CCL 2024）技术评测任务发布，SpaCE2024 作为任务3 发布。
@@ -23,4 +25,4 @@
     <!-- - [中文语法纠错评测 CLTC 2022](https://github.com/blcuicall/CCL2022-CGEC) -->
 
 <hr/>
-<p class="text-center">最后更新于<strong>2024年3月27日</strong></p>
+<p class="text-center">最后更新于<strong>2024年4月23日</strong></p>
