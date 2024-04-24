@@ -329,8 +329,8 @@
 <tbody>
 <tr>
 <td>4,483</td>
-<td>500</td>
-<td>4,500</td>
+<td>1,210</td>
+<td>4,680</td>
 </tr>
 </tbody></table>
 
