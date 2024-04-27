@@ -7,8 +7,8 @@
 
 <br/>
 
-- `4月 27日` **关于如何提交模型**：请将所使用的模型打包为zip文件，使用闭源大模型的队伍提交调用程序，文件命名为【队伍名称_model.zip】。文件内请附上模型说明文档【队伍名称_instruction.doc/md/txt】，介绍代码运行调试流程。使用提示策略工程的队伍请额外附上一个提示说明文件【队伍名称_prompt.doc/md/txt】，介绍所构造的提示策略。邮件以【<span style="color:var(--notice-red)">队伍名称-model-1<sub>指第几次提交</sub>-0812<sub>指日期</sub></span>】命名，将模型文件发送到 lmxiao@stu.pku.edu.cn 。
-- `4月 22日` **关于如何提交结果**：请将结果输出为 jsonl 格式，每行一个 json 对象，必须有 qid 字段和 answer 字段。以【<span style="color:var(--notice-red)">队伍名称-test<sub>或dev</sub>-1<sub>指第几次提交</sub>-0812<sub>指日期</sub>.jsonl</span>】给文件命名，将结果文件发送到 lmxiao@stu.pku.edu.cn 。我们每周将会根据提交情况更新1到2次排行榜，仅以更新时您的最后一次提交结果为准。
+- `4月 27日` **关于如何提交模型**：请将所使用的模型打包为zip文件，使用闭源大模型的队伍提交调用程序，文件命名为【队伍名称_model.zip】。文件内请附上模型说明文档【队伍名称_instruction.doc/md/txt】，介绍代码运行调试流程。使用提示策略工程的队伍请额外附上一个提示说明文件【队伍名称_prompt.doc/md/txt】，介绍所构造的提示策略。邮件以【<span style="color:var(--notice-red)">队伍名称-model-1<sub>指第几次提交</sub>-0512<sub>指日期</sub></span>】命名，将模型文件发送到 lmxiao@stu.pku.edu.cn 。
+- `4月 22日` **关于如何提交结果**：请将结果输出为 jsonl 格式，每行一个 json 对象，必须有 qid 字段和 answer 字段。以【<span style="color:var(--notice-red)">队伍名称-test<sub>或dev</sub>-1<sub>指第几次提交</sub>-0512<sub>指日期</sub>.jsonl</span>】给文件命名，将结果文件发送到 lmxiao@stu.pku.edu.cn 。我们每周将会根据提交情况更新1到2次排行榜，仅以更新时您的最后一次提交结果为准。
 - `4月 22日` 验证集及答案、无答案测试集 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a> 发布。
 - `4月  2日` 评分脚本 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/eval" target="_blank">🔗</a> 发布。
 - `3月 27日` 训练集 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a> 发布。
