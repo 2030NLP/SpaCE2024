@@ -159,55 +159,55 @@
 <td>2</td>
 <td>外部位置</td>
 <td>实体相对于外部参照物的位置。</td>
-<td>S的位置</td>
+<td>S 的位置</td>
 </tr>
 <tr>
 <td>3</td>
 <td>组件位置</td>
 <td>实体作为一个组件，相对于整体的位置。</td>
-<td>S相对于整体的位置</td>
+<td>S 相对于整体的位置</td>
 </tr>
 <tr>
 <td>4</td>
 <td>起点</td>
 <td>实体移动时的初始位置。</td>
-<td>S E的初始位置</td>
+<td>S E 的初始位置</td>
 </tr>
 <tr>
 <td>5</td>
 <td>终点</td>
 <td>实体移动时的终止位置。</td>
-<td>S E的终止位置</td>
+<td>S E 的终止位置</td>
 </tr>
 <tr>
 <td>6</td>
 <td>路径</td>
 <td>实体移动时经过的轨迹。</td>
-<td>S经过了<br>S的E路线<br>S通向<br>S的一端</td>
+<td>S 经过了<br>S 的 E 路线<br>S 通向<br>S 的一端</td>
 </tr>
 <tr>
 <td>7</td>
 <td>方向</td>
 <td>实体移动时的趋向。</td>
-<td>S的E趋向</td>
+<td>S 的 E 趋向</td>
 </tr>
 <tr>
 <td>8</td>
 <td>朝向</td>
 <td>实体某个侧面的位置。</td>
-<td>S的朝向</td>
+<td>S 的朝向</td>
 </tr>
 <tr>
 <td>9</td>
 <td>部位</td>
 <td>实体的一个部位</td>
-<td>S的部位</td>
+<td>S 的部位</td>
 </tr>
 <tr>
 <td>10</td>
 <td>形状</td>
 <td>实体自身的形态或组成的形态</td>
-<td>S的形状<br>S形成的布局</td>
+<td>S 的形状<br>S 形成的布局</td>
 </tr>
 <tr>
 <td>11</td>
@@ -219,7 +219,7 @@
 <td>12</td>
 <td>时间</td>
 <td>空间表达的发生时间</td>
-<td>P发生在</td>
+<td>P 发生在</td>
 </tr>
 <tr>
 <td>13</td>
