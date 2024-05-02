@@ -365,15 +365,19 @@ Acc = 命中正确答案的题数 / 题目总数
 </tr>
 <tr>
 <td>3月27日</td>
-<td>发布训练集</td>
+<td>发布训练集<a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a></td>
 </tr>
 <tr>
 <td>4月2日</td>
-<td>发布评分脚本和评分细则</td>
+<td>发布评分脚本和评分细则<a href="https://github.com/2030NLP/SpaCE2024/tree/main/eval" target="_blank">🔗</a></td>
 </tr>
 <tr>
 <td>4月22日</td>
-<td>发布验证集和测试集，开放结果提交</td>
+<td>发布验证集和测试集<a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a>，开放结果提交</td>
+</tr>
+<tr>
+<td>4月26日</td>
+<td>发布空间语义词表资源<a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a></td>
 </tr>
 <tr>
 <td>5月17日</td>
