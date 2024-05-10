@@ -3,7 +3,7 @@
 
 ## 🏆 排行榜
 
-<p class="text-center">最后更新于<strong>2024年5月6日</strong></p>
+<p class="text-center">最后更新于<strong>2024年5月10日</strong></p>
 
 <br/>
 
