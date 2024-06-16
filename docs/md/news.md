@@ -15,7 +15,7 @@
 
 - `4月 26日` 空间语义词表 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a> 发布。
 
-- `4月 22日` **关于如何提交结果**：请将结果输出为 jsonl 格式，每行一个 json 对象，必须有 qid 字段和 answer 字段。以【<span style="color:var(--notice-red)">队伍名称-test<sub>或dev</sub>-1<sub>指第几次提交</sub>-0512<sub>指日期</sub>.jsonl</span>】给文件命名，将结果文件发送到 lmxiao@stu.pku.edu.cn 。我们每周将会根据提交情况更新1到2次排行榜，仅以更新时您的最后一次提交结果为准。
+- `4月 22日` **关于如何提交结果**：请将结果输出为 jsonl 格式，每行一个 json 对象，必须有 qid 字段和 answer 字段。以【<span style="color:var(--notice-red)">队伍名称-test<sub>或dev</sub>-1<sub>指第几次提交</sub>-0512<sub>指日期</sub>.jsonl</span>】给文件命名，将结果文件发送到 lmxiao@stu.pku.edu.cn 。我们每周将会根据提交情况更新1到2次排行榜。
 
 - `4月 22日` 验证集及答案、无答案测试集 已在数据仓库 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/data" target="_blank">🔗</a> 发布。
 
