@@ -7,7 +7,7 @@
 
 <br/>
 
-- `6月 29日` 评测总结论文 已发布 <a href="https://github.com/2030NLP/SpaCE2024/tree/main/docs/Overview of SpaCE2024.pdf" target="_blank">🔗</a>。
+- `6月 29日` 评测总结论文 已发布 <a href="https://aclanthology.org/2024.ccl-3.14/" target="_blank">🔗</a>。
 
 - `6月 15日` 比赛结果公布：
   - 一等奖：
